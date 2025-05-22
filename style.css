@@ -10,8 +10,12 @@ html, body {
 }
 
 #page1{
+    height: 100vh;
+    width: 100vw;
     background-color: #fabdfa;
     position: relative;
+    overflow: hidden;
+
 }
 
 #nav{
@@ -125,14 +129,12 @@ html, body {
 }
 
 #page1 h1{
-    font-size: 235px;
-    letter-spacing: -5px;
+    font-size: 670px;
     font-weight: 100;
     background-color: black;
     color: #fabdfa;
-    line-height: 330px ;
-    width: 95.5%;
+    line-height: 600px ;
+    width: 96%;
     margin-left: 2%;
-    margin-top: 0%;
    
 }
